@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ladyturth/ladyturth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+‎ 
+‎ 
+‎
 
-Here are some ideas to get you started:
+‎ 
+‎ 
+‎ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+‎ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant&weight=300&size=17&duration=2000&pause=10&color=69574B&center=true&vCenter=true&width=500&lines=Finding+the+turth+is+my+job+.;you+might+aswell+just+come+around;just+come+around+...;" alt="Typing SVG" /></a>
+
+
+
+<img width="400" height="400" alt="ezgif-4e9d430256e89ac4" src="https://github.com/user-attachments/assets/77282b30-b0b9-478f-b171-01e7d1f9635d" />
+
+
