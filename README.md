@@ -5,7 +5,7 @@
 ‎
 
 ‎
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant&weight=300&size=17&duration=2000&pause=10&color=69574B&center=true&vCenter=true&width=500&lines=Finding+the+turth+is+my+job+.;you+might+aswell+just+come+around;just+come+around+...;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant&weight=300&size=17&duration=2000&pause=10&color=69574B&center=true&vCenter=true&width=500&lines=''+Finding+the+turth+is+my+job+.+'';''+Lets+catch+this+son+of+a+bitch+.+'';;" alt="Typing SVG" /></a>
 
 
 
