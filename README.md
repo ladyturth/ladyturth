@@ -15,8 +15,14 @@
 
 
 <img width="400" height="400" alt="ezgif-4e9d430256e89ac4" src="https://github.com/user-attachments/assets/77282b30-b0b9-478f-b171-01e7d1f9635d" />
+‎ 
+
+<p align="center"> 
+  <img  src="https://64.media.tumblr.com/2871899f9453f83747a2bb262446e2f8/31cc106c8988eb14-2f/s400x600/1ce0ddc956a4df84f77a9ed9c2211937c6ba16e4.pnj" />
+</p>
 
 
-
-
+<p align="center"> 
+  <img  src="https://64.media.tumblr.com/e6dba8165f2fac602c5e77c677a63fe2/fef3b4daa346fecc-25/s100x200/2024d1054442dcc19d4ccb2b705e708930bef639.gifv" />
+</p>
 
